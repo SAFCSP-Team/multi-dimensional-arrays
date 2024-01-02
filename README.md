@@ -1,11 +1,11 @@
-# Two Dimentional Array
+# Multi Dimentional Array
 
 ### Objective
-In this project, our main focus will be on understanding two-dimensional arrays, including their declaration, initialization, accessing, and manipulation of elements using indexes.
+In this project, our main focus will be on understanding multi-dimensional arrays.
 
 
 ### Problem
-Convert a one-dimensional array `nums` into a two-dimensional array.
+Convert a one-dimensional array `nums` into a two-dimensional array and three-dimensional.
 
 ### Implementation
 Write the implementation of the `convert` method that takes a one-dimensional array `nums` as input, and return a 2D array with a 3x3 dimension.
