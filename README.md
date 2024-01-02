@@ -5,12 +5,12 @@ In this project, our main focus will be on understanding multi-dimensional array
 
 
 ### Problem
-Convert a one-dimensional array `nums` into a two-dimensional array and three-dimensional.
+Convert a one-dimensional array `nums` into a two-dimensional array.
 
 ### Implementation
 Write the implementation of the `convert` method that takes a one-dimensional array `nums` as input, and return a 2D array with a 3x3 dimension.
 
-After calling the method : 
+After calling the method: 
 - Print the new 2D array.
 - print the element in the third row and second column.
 
